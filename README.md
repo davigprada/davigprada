@@ -69,6 +69,7 @@ I'm a student of the technologist in Software Analysis and Development at SENA i
   alt="Terminal"
   width="26"
 />
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josenoriegaa&layout=compact&theme=radical)](https://github.com/davigprada)
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://davigprada.me/)
